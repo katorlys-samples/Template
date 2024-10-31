@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- <a href="#">
-  <img src="https://github.com/katorlys/.github/blob/main/assets/logo/logo.png" height="100">
+  <img src="https://github.com/katorlys/.github/blob/main/assets/mark/mark.png" height="100">
 </a><br> -->
 
 <h1>
@@ -10,7 +10,7 @@
 </h1>
 
 <p>
-  One sentence to describe project
+  One sentence to describe your project.
 </p>
 
 [![Pull Requests][github-pr-badge]][github-pr-link]
